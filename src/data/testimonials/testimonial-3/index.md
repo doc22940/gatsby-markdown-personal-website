@@ -1,7 +1,7 @@
 ---
 category: 'testimonials'
 cover: './testimonial-3.jpg'
-title: 'Jordan Baker'
+title: 'Tiny Tina'
 ---
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+Tiny Tina the road show groupie of all road shows whom resides in the grear city of Rosemont.
